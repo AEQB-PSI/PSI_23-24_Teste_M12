@@ -2,13 +2,13 @@
 
 Cria um repositório **privado** no GitHub com o nome **"PSI_Teste_M12_1"** e com um ficheiro **README**.
 
-Podes faz ***clone*** do repositório para o teu computador (ou para o Replit) e preencher o **README** localmente (ou no Replit) com as respostas dos exercícios.
+Podes fazer ***clone*** do repositório para o teu computador (ou para o Replit) e preencher o **README** localmente (ou no Replit) com as respostas dos exercícios.
 Seguidamente, terás de fazer ***commit*** e ***push*** das atualizações.
 
 Alternativamente, podes preencher o ficheiro **README** diretamente no GitHub. A partir da página principal do repositório, clica em "Edit File" (ícone representando um lápis).
 Com o **README** preenchido, carrega no botão "Commit Changes".
 
-Para entregar a ficha, acede a [este link](https://docs.google.com/spreadsheets/d/1DrdGnICVAA8q9bs9_LAURFKoReAO7jJGB8qqvUWacL0/edit?usp=sharing) (separador **Ficha Módulo 11**), e mete o **URL** do teu repositório ao lado do teu nome.
+Para entregar a ficha, acede a [este link](https://docs.google.com/spreadsheets/d/1DrdGnICVAA8q9bs9_LAURFKoReAO7jJGB8qqvUWacL0/edit?usp=sharing) (separador **Teste Módulo 12**), e mete o **URL** do teu repositório ao lado do teu nome.
 No teu repositório, acede a "Settings -> Collaborators -> Add People" e adiciona o utilizador "Manuel Geraldes" para ter acesso.
 
 ## P1 - Realiza os seguintes exercícios, com respostas detalhadas. (10v)
